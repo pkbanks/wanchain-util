@@ -541,7 +541,7 @@ exports.stampSCAbi  = [{"constant":false,"type":"function","stateMutability":"no
 exports.contractCoinAddress = '0x0000000000000000000000000000000000000064';
 exports.contractStampAddress = '0x00000000000000000000000000000000000000c8';
 
-
+exports.generatePrivateKey = _generatePrivateKey
 
 
 
